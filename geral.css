@@ -1,0 +1,17 @@
+:root{
+    --cor_de_fundo: #26fbfb;
+    --cor_de_letra: #2298e3;
+    --cor_de_letra: #315dfa;
+    --cor_de_letra: #3d17e6;
+    --cor_de_letra: #a31fff;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100%;
+    height: 100px;
+    background-color: var(--cor_de_fundo);
+}
