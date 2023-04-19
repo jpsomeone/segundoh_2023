@@ -15,3 +15,31 @@
     height: 100px;
     background-color: var(--cor_de_fundo);
 }
+.bota{
+    font-size: 200%;
+    
+}
+#h1{
+    font-size: 350%;
+    text-align: center;
+    background: #26fbfb;
+}
+#aumentofonte{
+    font-size: 150%;
+    text-align: center;
+    background: #34dddd;
+}
+
+
+.bota {
+     width: 77px;
+     height: 52px;
+     font-family: verdana;
+     background-color: blue;
+}
+
+p{
+    text-indent: 23px;
+  }
+  
+  
