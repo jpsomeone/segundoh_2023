@@ -30,16 +30,23 @@
     background: #34dddd;
 }
 
-
+.h {
+font-size: 200%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    }
 .bota {
      width: 77px;
      height: 52px;
      font-family: verdana;
      background-color: blue;
 }
-
+body{
+    background: #ccdbe3;
+}
 p{
     text-indent: 23px;
-  }
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+ }
   
   
